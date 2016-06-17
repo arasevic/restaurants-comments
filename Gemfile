@@ -21,7 +21,7 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'ancestry'
 gem 'rails_admin'
-gem 'foundation-rails'
+gem 'foundation-rails', '~> 5.5.2.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
